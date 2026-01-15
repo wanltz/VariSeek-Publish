@@ -2,4 +2,4 @@
 *.application -text
 *.dll -text
 *.exe -text
-./** binary
+publish/** binary
