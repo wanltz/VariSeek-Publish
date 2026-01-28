@@ -13,6 +13,9 @@
             <setting name="UpgradeRequired" serializeAs="String">
                 <value>True</value>
             </setting>
+            <setting name="NbCurveScan" serializeAs="String">
+                <value>4</value>
+            </setting>
         </VariSeek.Properties.Settings>
     </userSettings>
 </configuration>
