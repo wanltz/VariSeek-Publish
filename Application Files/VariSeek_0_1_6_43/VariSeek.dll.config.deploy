@@ -16,6 +16,9 @@
             <setting name="NbCurveScan" serializeAs="String">
                 <value>4</value>
             </setting>
+            <setting name="VerticalOnly" serializeAs="String">
+                <value>False</value>
+            </setting>
         </VariSeek.Properties.Settings>
     </userSettings>
 </configuration>
