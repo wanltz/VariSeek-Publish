@@ -1,5 +1,0 @@
-*.manifest -text
-*.application -text
-*.dll -text
-*.exe -text
-publish/** binary
